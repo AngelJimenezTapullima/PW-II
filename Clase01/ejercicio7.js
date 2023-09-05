@@ -11,6 +11,6 @@ class Coche{
     }
 }
 
-const Coche1 = new Coche("Ferrari","LaFerrari",2019,"Negro");
+const Coche1 = new Coche("Ferrari","LaFerrari",2018,"Negro");
 
 Coche1.informacionCoche();
